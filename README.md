@@ -1,6 +1,6 @@
 ## About
 
-This repository contains a Jupyter notebook with the entire set of formulas and calculations steps featured in the World Bank blog titled ['Demystifying ICP Purchasing Power Parity (PPP) Calculations'](). 
+This repository contains a Jupyter notebook with the entire set of formulas and calculations steps featured in the World Bank blog titled ['Demystifying ICP Purchasing Power Parity calculations using Python'](https://blogs.worldbank.org/opendata/demystifying-icp-purchasing-power-parity-calculations-using-python). 
 
 ## Requirements
 
